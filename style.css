@@ -144,6 +144,15 @@ iframe {
     text-align: center;
 }
 
+.avis {
+	background-color: #ff000050;
+	padding: 30px 0;
+	}
+	
+.avis p {
+	font-size: 20px
+	}
+
 .divi {
     margin: 10px auto;
     border-top: solid 5px #ffff00;
