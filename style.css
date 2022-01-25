@@ -755,6 +755,10 @@ footer {
     .hhero2 {
         font-size: 32px;
     }
+	
+    .avis p {
+	font-size: 16px
+    }
 
     .cols {
         display: block;
